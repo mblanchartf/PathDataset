@@ -6,6 +6,8 @@ This learning project pretends to create a dataset with "paths" images for futur
 
 Join in a folder all the tracks you want to use.
 
+Modify gps/utils.py line 14 and set your Google Maps API key. Check: https://developers.google.com/maps/documentation/javascript/get-api-key
+
 Then run thepath_dataset.py script that has the following arguments: 
 
 ```bash
