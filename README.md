@@ -31,28 +31,28 @@ $ python path_dataset.py -tpath F:/Datasets/track/
 
 ## Image examples
 
-<img src=screenshots/20180704201644_36.png width=100% />
-<img src=screenshots/20180704201644_37.png width=100% />
-<img src=screenshots/20180704201644_38.png width=100% />
-<img src=screenshots/20180704201644_39.png width=100% />
-<img src=screenshots/20180704201644_40.png width=100% />
-<img src=screenshots/20180704201644_41.png width=100% />
-<img src=screenshots/20180704201644_42.png width=100% />
-<img src=screenshots/20180704201644_43.png width=100% />
-<img src=screenshots/20180704201644_44.png width=100% />
-<img src=screenshots/20180704201644_45.png width=100% />
-<img src=screenshots/20180704201644_46.png width=100% />
-<img src=screenshots/20180704201644_47.png width=100% />
-<img src=screenshots/20180704201644_48.png width=100% />
-<img src=screenshots/20180704201644_49.png width=100% />
-<img src=screenshots/20180704201644_50.png width=100% />
-<img src=screenshots/20180704201644_51.png width=100% />
-<img src=screenshots/20180704201644_52.png width=100% />
-<img src=screenshots/20180704201644_53.png width=100% />
-<img src=screenshots/20180704201644_54.png width=100% />
-<img src=screenshots/20180704201644_55.png width=100% />
-<img src=screenshots/20180704201644_56.png width=100% />
-<img src=screenshots/20180704201644_57.png width=100% />
+<img src=screenshots/20180704201644_36.png>
+<img src=screenshots/20180704201644_37.png>
+<img src=screenshots/20180704201644_38.png>
+<img src=screenshots/20180704201644_39.png>
+<img src=screenshots/20180704201644_40.png>
+<img src=screenshots/20180704201644_41.png>
+<img src=screenshots/20180704201644_42.png>
+<img src=screenshots/20180704201644_43.png>
+<img src=screenshots/20180704201644_44.png>
+<img src=screenshots/20180704201644_45.png>
+<img src=screenshots/20180704201644_46.png>
+<img src=screenshots/20180704201644_47.png>
+<img src=screenshots/20180704201644_48.png>
+<img src=screenshots/20180704201644_49.png>
+<img src=screenshots/20180704201644_50.png>
+<img src=screenshots/20180704201644_51.png>
+<img src=screenshots/20180704201644_52.png>
+<img src=screenshots/20180704201644_53.png>
+<img src=screenshots/20180704201644_54.png>
+<img src=screenshots/20180704201644_55.png>
+<img src=screenshots/20180704201644_56.png>
+<img src=screenshots/20180704201644_57.png>
 
 
 ## Authors
