@@ -8,7 +8,7 @@ Join in a folder all the tracks you want to use.
 
 Modify gps/utils.py line 14 and set your Google Maps API key. Check: https://developers.google.com/maps/documentation/javascript/get-api-key
 
-Then run thepath_dataset.py script that has the following arguments: 
+Then run the path_dataset.py script that has the following arguments: 
 
 ```bash
 python path_dataset.py -h
@@ -55,6 +55,26 @@ $ python path_dataset.py -tpath F:/Datasets/track/
 <img src=screenshots/20180704201644_55.png>
 <img src=screenshots/20180704201644_56.png>
 <img src=screenshots/20180704201644_57.png>
+
+## Random images
+
+In order to obtain a non_path dataset, we modified the script in order to obtain random images near the current track. 
+This feature will be included as an option in the path_dataset.py script, but meanwhile, you can execute this: 
+
+```bash
+$ python path_dataset_random.py -tpath F:/Datasets/track/
+218 images created at: F:/Datasets/track/
+```
+
+Results: 
+
+<img src=screenshots/20180705115735_398.png>
+<img src=screenshots/20180705120020_50.png>
+<img src=screenshots/20180705120020_93.png>
+<img src=screenshots/20180705120020_252.png>
+<img src=screenshots/20180705120020_289.png>
+<img src=screenshots/20180705120537_144.png>
+
 
 
 ## Authors
